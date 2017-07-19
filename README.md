@@ -4,4 +4,4 @@ Hello there . I am Jeson Dias ,
 as
 i
 oops
- <a href="oncorps://stage.oncorps.io/demo#/metrics/">Open app</a>
+[a link](oncorps://stage.oncorps.io/demo#/metrics/)
